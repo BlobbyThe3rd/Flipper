@@ -4,3 +4,6 @@ STRING https://media.tenor.com/SSY2V0RrU3IAAAAd/rick-roll-rick-rolled.gif
 DELAY 1000
 ENTER
 DELAY 250
+TAB
+DELAY 500
+ENTER
